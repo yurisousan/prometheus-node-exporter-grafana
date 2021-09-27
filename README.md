@@ -8,11 +8,11 @@ Make sure these software have been installed
 ## How to use
 Clone this repo
 ```bash
-git clone https://github.com/yurisousan/protmetheus-node-exporter-grafana.git
+git clone https://github.com/yurisousan/prometheus-node-exporter-grafana.git
 ```
 Access the directory
 ```bash
-cd protmetheus-node-exporter-grafana
+cd prometheus-node-exporter-grafana
 ```
 And execute the vagrant:
 ```bash
